@@ -1,0 +1,14 @@
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\bin\Debug\net7.0\AVSystemApp.exe
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\bin\Debug\net7.0\AVSystemApp.deps.json
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\bin\Debug\net7.0\AVSystemApp.runtimeconfig.json
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\bin\Debug\net7.0\AVSystemApp.dll
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\bin\Debug\net7.0\AVSystemApp.pdb
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.AssemblyInfoInputs.cache
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.AssemblyInfo.cs
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.dll
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\refint\AVSystemApp.dll
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.pdb
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\AVSystemApp.genruntimeconfig.cache
+C:\Users\seanl\source\repos\AVSystemApp\AVSystemApp\obj\Debug\net7.0\ref\AVSystemApp.dll
